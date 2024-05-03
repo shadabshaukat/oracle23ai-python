@@ -1,4 +1,4 @@
-# oracle23ai-python
+# Oracle 23ai Python3.11 Code Samples
 
 ## Code Snippets for Testing Vector Embeddings with Oracle 23ai
 
