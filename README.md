@@ -4,4 +4,6 @@
 
 connect.py - Connectivity test with Oracle 23ai
 
-vector.py - 64-bit float, 32-bit float, 8-bit signed integer testing
+vector.py - 64-bit float, 32-bit float, 8-bit signed to Vector Testing
+
+vector2.py - String to Vector Conversion Testing
